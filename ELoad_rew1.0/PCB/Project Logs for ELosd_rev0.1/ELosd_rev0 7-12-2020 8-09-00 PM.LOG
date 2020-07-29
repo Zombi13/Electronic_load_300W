@@ -1,0 +1,256 @@
+Added Component: Designator=C6(CAPC2012X88N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "1.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "23.04.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0805_TAIYO-YUDEN_UMK212B7104KGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "23.04.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UMK212B7104KGH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor (High Dielectric Type) for Automotive / Industrial Applications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0805_100NF_50V_10%_X7R_YUDEN_UMK212B7104KGH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=D5(DIOM5127X229N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "DO-214AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "7/15/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SS16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\SS16.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "8/23/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VISHAY GENERAL SEMICONDUCTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SS16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AC Molded Diode, Body 5.1x2.7mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Surface Mount Schottky Barrier Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SS16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(CLIFF_FC68148(DC-10A))
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "11/23/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CLIFF_FC68148(DC-10A).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "11/23/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CLIFF ELECTRONIC COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FC68148 (DC-10A)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "12V/5A, 2.1mm Diameter Pin, DC Power Socket With  Switch (DC10A Type)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CLIFF_FC68148(DC-10A)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Added Component: Designator=P5(TRIM_BOURNS_3290W)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "3290W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "9.91mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "3/1/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\TRIM_BOURNS_3290W.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "3/1/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3290W-1-203"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "25 Turn Trimming Potentiometer (Top Adjustement)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TRIM_25T_20K_BOURNS_3290W-1-203"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "±50ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Added Component: Designator=P6(NX2500-03SMR)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC2012X60N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "12/3/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\R0805_NIC_NRC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "3/13/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "NIC COMPONENT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "NRC10F2203TRF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "R0805_220K_1%_0.125W_100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "General Purpose Thick Film Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R0805_220K_1%_0.125W_100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Preferred"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RESC2012X60N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "12/3/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\R0805_NIC_NRC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "3/13/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "NIC COMPONENT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "NRC10F4700TRF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "R0805_100R_1%_0.125W_100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "General Purpose Thick Film Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R0805_100R_1%_0.125W_100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Preferred"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC2012X60N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "12/3/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\R0805_Tyco_RN73.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "3/13/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "TYCO HOLSWORTHY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "RN73C2A25K5BTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "R0805_25K5_0.1%_0.1W_10PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Thin Film Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R0805_25K5_0.1%_0.1W_10PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "±10ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "25k5"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RESC2012X60N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "03.12.2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\R0805_NIC_NRC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13.03.2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "NIC COMPONENT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "NRC10F1003TRF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "R0805_100K_1%_0.125W_100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "General Purpose Thick Film Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R0805_100K_1%_0.125W_100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Preferred"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=T6(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "1.12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "8/29/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "IRLML6402PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\IRLML6402PBF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "8/29/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "INTERNATIONAL RECTIFIER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "IRLML6402PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SOT, 0.95mm, pitch; 3 pin,1.30mm W X 2.92mm L X 1.12mm H body, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "-20V -3.7A P-Channel HEXFET® Power MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IRLML6402PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=NetC3_2 Pin=P6-1
+Added Pin To Net: NetName=NetC3_1 Pin=P6-2
+Added Pin To Net: NetName=NetC3_1 Pin=R8-2
+Added Pin To Net: NetName=Load+ Pin=R13-2
+Added Pin To Net: NetName=Load+ Pin=R23-1
+Added Pin To Net: NetName=Load+ Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R24-2
+Added Pin To Net: NetName=NetC3_1 Pin=T6-2
+Added Pin To Net: NetName=OP_Sulply Pin=T6-3
+Change Net Name : Old Net Name=NetC3_1 New Net Name=12V
+Added Pin To Net: NetName=3V3 Pin=R25-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=ADC_Vload Pin=C6-2
+Added Pin To Net: NetName=ADC_Vload Pin=P3-3
+Added Pin To Net: NetName=ADC_Vload Pin=P5-2
+Added Pin To Net: NetName=ADC_Vload Pin=P5-3
+Added Pin To Net: NetName=ADC_Vload Pin=R13-1
+Added Net: Name=ADC_Vload
+Added Pin To Net: NetName=FanSensor Pin=D5-2
+Added Pin To Net: NetName=FanSensor Pin=P3-5
+Added Pin To Net: NetName=FanSensor Pin=R25-1
+Added Net: Name=FanSensor
+Added Pin To Net: NetName=Fan Pin=P3-6
+Added Pin To Net: NetName=Fan Pin=R10-1
+Added Net: Name=Fan
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=P6-3
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=T6-1
+Added Net: Name=NetR23_2
+Added Member To Class: ClassName=ELoad_rev0.1 Member=Component C6 100nF
+Added Member To Class: ClassName=ELoad_rev0.1 Member=Component D5 SS16
+Added Member To Class: ClassName=ELoad_rev0.1 Member=Component J1 Jack
+Added Member To Class: ClassName=ELoad_rev0.1 Member=Component P2 1k
+Added Member To Class: ClassName=ELoad_rev0.1 Member=Component P3 Header 6
+Added Member To Class: ClassName=ELoad_rev0.1 Member=Component P5 20k
+Added Member To Class: ClassName=ELoad_rev0.1 Member=Component P6 Header 3
+Added Member To Class: ClassName=ELoad_rev0.1 Member=Component R13 220k
+Added Member To Class: ClassName=ELoad_rev0.1 Member=Component R23 100
+Added Member To Class: ClassName=ELoad_rev0.1 Member=Component R24 25k5
+Added Member To Class: ClassName=ELoad_rev0.1 Member=Component R25 100k
+Added Member To Class: ClassName=ELoad_rev0.1 Member=Component T6 IRLML6402PBF
